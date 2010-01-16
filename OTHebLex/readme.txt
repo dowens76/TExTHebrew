@@ -4,7 +4,7 @@ December 16, 2010
 The vision of this project is to create a collaboratively produced modern replacement for Strongs' OT Greek Dictionary that can be distributed and translated freely.
 
 The files were prepared in the following manner: 
-- The base for the source file was an XML file of Strong's lexicon from the CrossWire website (http://crosswire.org/~chrislit/osis/texts/strongs.tei.zip). Strong's is in the public domain.
+- The base for the source file was an XML file of Strong's lexicon from the CrossWire website at http://www.crosswire.org/~chrislit/osis/texts/strongs.tei.zip. Strong's is in the public domain.
 - This file was converted to MDF standard format markers. It includes some custom markers. 
 - Strong's numbers, lexemes, transliterations (with conversion to SBL transliteration begun), glosses, and links to other Strong's terms were retained. However, as much as possible the extraneous text of Strong's was trimmed down. 
 - A Perl script was written to convert the mdf markers into TEI for import into the SWORD Library. 
