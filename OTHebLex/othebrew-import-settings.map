@@ -1,0 +1,87 @@
+
+<!--=====================================================================
+Created via the Lexical Import process: 12/20/2009 8:50:02 AM
+===================================================================== -->
+<sfmMapping version="6.0">
+
+<!--=====================================================================
+Global Settings
+===================================================================== -->
+<settings>
+<meaning app="fw.sil.org"/>
+</settings>
+
+<!--=====================================================================
+Language Definitions
+===================================================================== -->
+<languages>
+<langDef id="Vernacular" xml:lang="hbo"/>
+<langDef id="National" xml:lang="ignore" map="Windows1252&lt;&gt;Unicode"/>
+<langDef id="English" xml:lang="en" map="Windows1252&lt;&gt;Unicode"/>
+<langDef id="Regional" xml:lang="ignore" map="Windows1252&lt;&gt;Unicode"/>
+</languages>
+
+<!--=====================================================================
+Level Hierarchy
+===================================================================== -->
+<hierarchy>
+<level name="Entry" partOf="records" beginFields="lx" additionalFields="lc cf dt" multiFields="lc cf"/>
+<level name="Etymology" partOf="Entry Subentry" beginFields="ignore"/>
+<level name="Example" partOf="Sense" beginFields="ignore"/>
+<level name="Function" partOf="Sense Entry Subentry" beginFields="ignore"/>
+<level name="Picture" partOf="Sense" beginFields="ignore"/>
+<level name="Pronunciation" partOf="Entry Subentry" beginFields="ph"/>
+<level name="SemanticDomain" partOf="Sense" beginFields="ignore"/>
+<level name="Sense" partOf="Entry Subentry" beginFields="ge" additionalFields="nt" multiFields="nt"/>
+<level name="Subentry" partOf="Entry" beginFields="ignore"/>
+<level name="Variant" partOf="Sense Entry Subentry" beginFields="ignore"/>
+</hierarchy>
+
+<!--=====================================================================
+Field Descriptions
+===================================================================== -->
+<fieldDescriptions>
+<field sfm="lx" name="Lexeme Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lex"/>
+</field>
+<field sfm="lc" name="Citation Form (Entry)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="cit"/>
+</field>
+<field sfm="str" name=" " type="string" lang="English" autoImport="True" >
+<meaning app="fw.sil.org" id=""/>
+</field>
+<field sfm="ph" name="Pronunciation Form" type="string" lang="English" >
+<meaning app="fw.sil.org" id="prnf"/>
+</field>
+<field sfm="ge" name="Gloss" type="string" lang="English" >
+<meaning app="fw.sil.org" id="glos"/>
+</field>
+<field sfm="uh" name=" " type="string" lang="English" autoImport="True" >
+<meaning app="fw.sil.org" id=""/>
+</field>
+<field sfm="dt" name="Date Modified" type="date" lang="English" >
+<meaning app="fw.sil.org" id="mod"/>
+</field>
+<field sfm="cf" name="Cross Reference" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="cref" funcWS="en" func="Compare"/>
+</field>
+<field sfm="nt" name="General Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="gnote"/>
+</field>
+<field sfm="scr" name=" " type="string" lang="English" autoImport="True" >
+<meaning app="fw.sil.org" id=""/>
+</field>
+</fieldDescriptions>
+
+<!--=====================================================================
+In Field Markers
+===================================================================== -->
+<inFieldMarkers>
+</inFieldMarkers>
+
+<!--=====================================================================
+Custom Field Descriptions
+===================================================================== -->
+<CustomFieldDescriptions>
+</CustomFieldDescriptions>
+</sfmMapping>
