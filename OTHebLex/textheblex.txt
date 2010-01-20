@@ -64,129 +64,129 @@
 
 \lx 00008
 \lk אבד
-\lf 
+\lf אֹבֵד
 \ph ʾôbēd
 \frq WLC: 2
 \cf Strong:H0006
-\dt 20/Dec/2009
+\dt 19/Jan/2010
 
 \lx 00009
 \lk אבדה
-\lf 
+\lf אֲבֵדָה
 \ph ʾăbēdāh
 \frq WLC: 4
 \ge lost; destruction
 \cf Strong:H0010
-\dt 20/Dec/2009
+\dt 19/Jan/2010
 
 \lx 00010
 \lk אבדּה
-\lf 
+\lf אֲבַדֹּה
 \ph ʾăbaddôh
 \frq WLC: 1
 \cf Strong:H0009
 \ge perishing
-\dt 20/Dec/2009
+\dt 19/Jan/2010
 
 \lx 00011
 \lk אבדּון
-\lf 
-\ph ʾăbaddôn 
+\lf אֲבַדֹּון
+\ph ʾăbaddôn
 \frq WLC: 5
 \cf Strong:H0006
 \ge perishing; Hades: destruction.
-\dt 
+\dt 19/Jan/2010
 
 \lx 00012
 \lk אבדן
-\lf 
+\lf אַבְדָן
 \ph ʾabdān
 \frq WLC: 1
 \cf Strong:H0006
 \ge perishing
-\dt 
+\dt 19/Jan/2010
 
 \lx 00013
 \lk אבדן
-\lf 
+\lf אָבְדָן
 \ph ʾobdān
 \frq WLC: 1
 \cf Strong:H0006
 \ge perishing
-\dt 
+\dt 19/Jan/2010
 
 \lx 00014
 \lk אבה
-\lf 
+\lf אָבָה
 \ph ʾābāh
 \frq WLC: 54
 \ge breathe; be acquiescent, willling
-\dt 
+\dt 19/Jan/2010
 
 \lx 00015
-\lk אבה
-\lf 
-\ph ʾābeh
+\lk אבי
+\lf אָבִי
+\ph ʾā∙ḇî
 \frq WLC: 1
-\cf Strong:H0014
-\ge longing
-\dt 
+\ge Oh! Would that!
+\scr Job.34.36
+\dt 19/Jan/2010
 
 \lx 00016
 \lk אבה
-\lf 
+\lf אֵבֶה
 \ph ʾēbeh
 \frq WLC: 1
 \cf Strong:H0014
 \ge bending; papyrus
-\dt 
+\dt 19/Jan/2010
 
 \lx 00017
 \lk אבוי
-\lf 
+\lf אֲבֹוי
 \ph ʾăbôy
 \frq WLC: 1
 \cf Strong:H0014
 \ge desiring; want
-\dt 
+\dt 19/Jan/2010
 
 \lx 00018
 \lk אבוּס
-\lf 
+\lf אֵבוּס
 \ph ʾēbûs
 \frq WLC: 3
 \cf Strong:H0075
 \ge manger; stall
-\dt 
+\dt 19/Jan/2010
 
 \lx 00019
 \lk אבחה
-\lf 
+\lf אִבְחָה
 \ph ʾibḥāh
 \frq WLC: 1
 \ge turn; brandishing
-\dt 
+\dt 19/Jan/2010
 
 \lx 00020
 \lk אבטּיח
-\lf 
+\lf אֲבַטִּיחַ
 \ph ʾăbaṭṭîyaḥ
 \frq WLC: 1
 \ge melon
-\dt 
+\dt 19/Jan/2010
 
 \lx 00021
 \lk אבי
-\lf 
+\lf אֲבִי
 \ph ʾăbîy
 \frq WLC: 1
 \cf Strong:H0001
 \ge fatherly; Abi
-\dt 
+\dt 19/Jan/2010
 
 \lx 00022
 \lk אביאל
-\lf 
+\lf אֲבִיאֵל
 \ph ʾăbîyʾēl
 \frq WLC: 3
 \cf Strong:H0001
@@ -194,11 +194,11 @@
 \ge father; possessor
 \sn 2
 \ge of God; Abiel
-\dt 
+\dt 19/Jan/2010
 
 \lx 00023
 \lk אביאסף
-\lf 
+\lf אֲבִיאָסָף
 \ph ʾăbîyʾāsāph
 \frq WLC: 1
 \cf Strong:H0001
@@ -206,18 +206,18 @@
 \ge father of gathering; gatherer
 \sn 2
 \ge Abiasaph
-\dt 
+\dt 19/Jan/2010
 
 \lx 00024
 \lk אביב
-\lf 
+\lf אָבִיב
 \ph ʾābîyb
 \frq WLC: 8
 \sn 1
 \ge be tender; green
 \sn 2
 \ge ear; Abib
-\dt 
+\dt 19/Jan/2010
 
 \lx 00025
 \lk אבי גבעון
@@ -232,8 +232,8 @@
 \dt 
 
 \lx 00026
-\lk אביגל  אביגיל
-\lf 
+\lk אביגיל
+\lf אֲבִיגַיִל
 \ph ʾăbîygayil  ʾăbîygal
 \frq WLC: 17
 \cf Strong:H0001
@@ -243,11 +243,11 @@
 \ge of joy; Abigail
 \sn 3
 \ge Abigal
-\dt 
+\dt 19/Jan/2010
 
 \lx 00027
 \lk אבידן
-\lf 
+\lf אֲבִידָן
 \ph ʾăbîydān
 \frq WLC: 5
 \cf Strong:H0001
@@ -255,11 +255,11 @@
 \ge father of judgment; judge
 \sn 2
 \ge Abidan
-\dt 
+\dt 19/Jan/2010
 
 \lx 00028
 \lk אבידע
-\lf 
+\lf אֲבִידָע
 \ph ʾăbîydāʿ
 \frq WLC: 2
 \cf Strong:H0001
@@ -267,11 +267,11 @@
 \ge father of knowledge; knowing
 \sn 2
 \ge Abida
-\dt 
+\dt 19/Jan/2010
 
 \lx 00029
-\lk אביּהוּ    אביּה
-\lf 
+\lk אביּהוּ אביּה
+\lf אֲבִיָּהוּ אֲבִיָּה
 \ph ʾăbîyāh  ʾăbîyāhû
 \frq WLC: 25
 \cf Strong:H0001
@@ -279,11 +279,11 @@
 \ge father; worshipper
 \sn 2
 \ge of Jah; Abijah
-\dt 
+\dt 19/Jan/2010
 
 \lx 00030
 \lk אביהוּא
-\lf 
+\lf אֲבִיהוּא
 \ph ʾăbîyhûʾ
 \frq WLC: 12
 \cf Strong:H0001
@@ -293,11 +293,11 @@
 \ge Him; God
 \sn 3
 \ge Abihu
-\dt 
+\dt 19/Jan/2010
 
 \lx 00031
 \lk אביהוּד
-\lf 
+\lf אֲבִיהוּד
 \ph ʾăbîyhûd
 \frq WLC: 1
 \cf Strong:H0001
@@ -305,11 +305,11 @@
 \ge father; possessor
 \sn 2
 \ge of renown; Abihud
-\dt 
+\dt 19/Jan/2010
 
 \lx 00032
 \lk אביחיל    אביהיל
-\lf 
+\lf אֲבִיהַיִל
 \ph ʾăbîyhayil  ʾăbîyḥayil
 \frq WLC: 6
 \cf Strong:H0001
@@ -319,29 +319,29 @@
 \ge of might; Abihail
 \sn 3
 \ge Abichail
-\dt 
+\dt 19/Jan/2010
 
 \lx 00033
-\lk אבי העזרי
-\lf 
+\lk אבי עזרי
+\lf אֲבִי עֶזְרִי
 \ph ʾăbîy hāʿezrîy
 \frq WLC: 3
 \cf Strong:H0044
 \ge father of the Ezrite; Abiezrite
-\dt 
+\dt 19/Jan/2010
 
 \lx 00034
 \lk אביון
-\lf 
+\lf אֶבְיוֹן
 \ph ʾebyôn
 \frq WLC: 61
 \cf Strong:H0014
 \ge want; destitute
-\dt 
+\dt 19/Jan/2010
 
 \lx 00035
 \lk אביּונה
-\lf 
+\lf אֲבִיוֹנָה
 \ph ʾăbîyônāh
 \frq WLC: 1
 \cf Strong:H0014
@@ -349,11 +349,11 @@
 \ge desire; caper
 \sn 2
 \ge stimulative
-\dt 
+\dt 19/Jan/2010
 
 \lx 00036
 \lk אביטוּב
-\lf 
+\lf אֲבִיטוּב
 \ph ʾăbîyṭûb
 \frq WLC: 1
 \cf Strong:H0001
@@ -361,7 +361,7 @@
 \ge father of goodness; good
 \sn 2
 \ge Abitub
-\dt 
+\dt 19/Jan/2010
 
 \lx 00037
 \lk אביטל
