@@ -2,10 +2,10 @@
 
 <!-- Lexique Pro Configuration File -->
 <!-- Language: Hebrew -->
-<!-- Database: othebrew.txt -->
+<!-- Database: textheblex.txt -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.2.1" dateModified="2009-12-20T13:25:51">
+<lexiqueProConfig version="3.2.1" dateModified="2010-01-20T20:59:21">
 
  <encoding type="UTF-8"/>
 
@@ -1096,7 +1096,7 @@
    </view>
   </format>
 
-  <format type="lexical-function" tag="אֵב" lang="hbo">
+  <format type="lexical-function" tag="×Öµ×‘" lang="hbo">
    <view type="single">
     <font>
      <name>Lucida Sans Unicode</name>
@@ -1120,7 +1120,7 @@
    <trait name="label-style" value="same"/>
   </format>
 
-  <format type="lexical-function" tag="אַב" lang="hbo">
+  <format type="lexical-function" tag="×Ö·×‘" lang="hbo">
    <view type="single">
     <font>
      <name>Lucida Sans Unicode</name>
@@ -1144,7 +1144,7 @@
    <trait name="label-style" value="same"/>
   </format>
 
-  <format type="lexical-function" tag="אָב" lang="hbo">
+  <format type="lexical-function" tag="×Ö¸×‘" lang="hbo">
    <view type="single">
     <font>
      <name>Lucida Sans Unicode</name>
@@ -1168,7 +1168,7 @@
    <trait name="label-style" value="same"/>
   </format>
 
-  <format type="lexical-function" tag="אֲבַגְתָּא" lang="hbo">
+  <format type="lexical-function" tag="×Ö²×‘Ö·×’Ö°×ªÖ¼Ö¸×" lang="hbo">
    <view type="single">
     <font>
      <name>Lucida Sans Unicode</name>
@@ -1190,6 +1190,69 @@
    </view>
    <trait name="link-style" value="entry"/>
    <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="user-style" tag="frq">
+   <trait name="user-style-type" value="MDF"/>
+   <description>Frequency in WLC</description>
+   <view type="single">
+    <font>
+     <name>Arial</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Arial</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="user-style" tag="lf">
+   <trait name="user-style-type" value="MDF"/>
+   <description>Lexical Form</description>
+   <view type="single">
+    <font>
+     <name>SBL Hebrew</name>
+     <size>14</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Arial</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="user-style" tag="lk">
+   <trait name="user-style-type" value="MDF"/>
+   <description>Lexical Key (Hebrew)</description>
+   <view type="single">
+    <font>
+     <name>SBL Hebrew</name>
+     <size>14</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Arial</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
   </format>
 
  </formatting>

@@ -1,10 +1,10 @@
 \lx 00001
 \lk אב
-\lf  אָב
+\lf אָב
 \ph ʾāb
 \frq WLC: 1212
 \ge father, ancestor
-\dt 20/Dec/2009
+\dt 20/Jan/2010
 
 \lx 00002
 \lk אב
@@ -1178,17 +1178,16 @@
 \lf אָדָם
 \ph ʾādām
 \frq WLC: 552
-\cf Strong:H0119
-\ge human being, mankind; Adam
-\dt 20/Dec/2009
+\ge man, human being, mankind
+\dt 06/Feb/2010
 
 \lx 00121
 \lk אדם
 \lf אָדָם
 \ph ʾādām
 \frq WLC: 10
-\cf Strong:H0120
-\dt 20/Dec/2009
+\ge Adam
+\dt 06/Feb/2010
 
 \lx 00122
 \lk אדם
@@ -1321,12 +1320,11 @@
 
 \lx 00136
 \lk אדני
-\lf 
+\lf אֲדֹנָי
 \ph ʾădônāy
 \frq WLC: 448
-\cf Strong:H0113
-\ge Lord
-\dt 
+\ge Lord, master
+\dt 06/Feb/2010
 
 \lx 00137
 \lk אדני־בזק
@@ -2444,11 +2442,11 @@
 
 \lx 00251
 \lk אח
-\lf  אָח
+\lf אָח
 \ph ʾāḥ
 \frq WLC: 630
-\ge brother
-\dt 20/Dec/2009
+\ge brother, relative
+\dt 31/Jan/2010
 
 \lx 00252
 \lk אח
@@ -2520,12 +2518,18 @@
 
 \lx 00259
 \lk אחד
-\lf  אֶחָד, אַחַת
-\ph ʾeḥād
+\lf אֶחָד, אַחַת
+\ph ʾeḥād, ʾaḥat, 
 \frq WLC: 967
-\cf Strong:H0258
-\ge one; first
-\dt 20/Dec/2009
+1
+\ge one
+\sn 2 
+\ge first
+\sn 3
+\ge each
+\sn 4
+\ge only
+\dt 30/Jan/2010
 
 \lx 00260
 \lk אחוּ
@@ -3022,12 +3026,11 @@
 
 \lx 00310
 \lk אחר
-\lf 
+\lf אַחַר
 \ph ʾaḥar
 \frq WLC: 715
-\cf Strong:H0309
-\ge hind; after
-\dt 
+\ge behind, after
+\dt 31/Jan/2010
 
 \lx 00311
 \lk אחר
@@ -3596,12 +3599,11 @@
 
 \lx 00369
 \lk אין
-\lf  אַ֫יִן, אֵין 
+\lf אַ֫יִן
 \ph ʾayin
 \frq WLC: 788
 \ge there is not, are not
-\cf Strong:H0370
-\dt 20/Dec/2009
+\dt 31/Jan/2010
 
 \lx 00370
 \lk אין
@@ -3663,13 +3665,16 @@
 
 \lx 00376
 \lk אישׁ
-\lf 
+\lf אִישׁ
 \ph ʾîyš
 \frq WLC: 2005
-\cf Strong:H0582
-\ge be extant; man
-\cf Strong:H0802
-\dt 
+\sn 1
+\ge man, human being
+\sn 2
+\ge man, adult male
+\sn 3
+\ge anyone
+\dt 30/Jan/2010
 
 \lx 00377
 \lk אישׁ
@@ -3886,8 +3891,11 @@
 \lf אָכַל
 \ph ʾākal
 \frq WLC: 810
+\sn 1
 \ge eat
-\dt 20/Dec/2009
+\sn 2
+\ge consume, destroy
+\dt 31/Jan/2010
 
 \lx 00399
 \lk אכל
@@ -3976,14 +3984,13 @@
 
 \lx 00408
 \lk אל
-\lf 
+\lf אַל
 \ph ʾal
 \frq WLC: 725
-\cf Strong:H3808
 \ge not
 \scr Job.24.25
 \ge nothing
-\dt 
+\dt 31/Jan/2010
 
 \lx 00409
 \lk אל
@@ -4022,17 +4029,21 @@
 \dt 
 
 \lx 00413
-\lk אל   אל
-\lf 
-\ph ʾēl  ʾel
+\lk אל
+\lf אֶל
+\ph ʾěl
 \frq WLC: 5502
 \sn 1
-\ge towards; near
+\ge to, toward, into
 \sn 2
-\ge with; among
+\ge on, insidewith
 \sn 3
-\ge to
-\dt 
+\ge among
+\sn 4
+\ge about, concerning
+\sn 5
+\ge for, on behalf of
+\dt 20/Jan/2010
 
 \lx 00414
 \lk אלא
@@ -4160,13 +4171,12 @@
 \dt 
 
 \lx 00428
-\lk אלּה
+\lk אלה
 \lf אֵ֫לֶּה
 \ph ʾēlleh
 \frq WLC: 746
-\cf Strong:H0411
-\ge these
-\dt 20/Dec/2009
+\ge these, those
+\dt 31/Jan/2010
 
 \lx 00429
 \lk אלּה
@@ -4182,9 +4192,15 @@
 \lf אֱלֹהִים
 \ph ʾĕlôhîym
 \frq WLC: 2598
-\cf Strong:H0433
-\ge God; gods
-\dt 20/Dec/2009
+\sn 1
+\ge God
+\sn 2
+\ge gods
+\sn 3
+\ge idol
+\sn 4
+\ge heavenly beings
+\dt 30/Jan/2010
 
 \lx 00431
 \lk אלוּ
@@ -5068,8 +5084,8 @@
 \lf אִם
 \ph ʾim
 \frq WLC: 1070
-\ge if; then
-\dt 20/Dec/2009
+\ge if
+\dt 30/Jan/2010
 
 \lx 00519
 \lk אמה
@@ -5465,11 +5481,19 @@
 
 \lx 00559
 \lk אמר
-\lf 
-\ph ʾāmar
+\lf אָמַר
+\ph ʾāmǎr
 \frq WLC: 5308
+1
 \ge say
-\dt 
+\sn 2
+\ge call, be called
+\ee (of a name)
+\sn 3
+\ge intend
+\sn 4
+\ge order, command
+\dt 20/Jan/2010
 
 \lx 00560
 \lk אמר
@@ -5752,11 +5776,11 @@
 
 \lx 00589
 \lk אני
-\lf 
+\lf אֲנִי
 \ph ʾănîy
 \frq WLC: 874
-\cf Strong:H0595
-\dt 
+\ge I
+\dt 31/Jan/2010
 
 \lx 00590
 \lk אני
@@ -7507,14 +7531,16 @@
 
 \lx 00776
 \lk ארץ
-\lf 
+\lf אֶ֫רֶץ
 \ph ʾereṣ
 \frq WLC: 2503
 \sn 1
-\ge be firm; earth
+\ge earth, world
 \sn 2
-\ge land
-\dt 
+\ge land, country
+\sn 3
+\ge dirt, soil
+\dt 30/Jan/2010
 
 \lx 00777
 \lk ארצא
@@ -7742,13 +7768,17 @@
 \dt 
 
 \lx 00802
-\lk נשׁים    אשּׁה
-\lf 
-\ph ʾiššāh  nāšîym
+\lk אשׁה
+\lf אִשָּׁה, נָשִׁים
+\ph ʾiššāh, nāšîym
 \frq WLC: 781
-\cf Strong:H0376
-\ge woman
-\dt 
+\sn 1
+\ge woman, women
+\sn 2
+\ge wife
+\sn 3
+\ge each
+\dt 31/Jan/2010
 
 \lx 00803
 \lk אשׁוּיה
@@ -8054,8 +8084,8 @@
 
 \lx 00834
 \lk אשׁר
-\lf 
-\ph ʾăšer
+\lf אֲשֶׁר
+\ph ʾăšěr
 \frq WLC: 5502
 \sn 1
 \ge who; which
@@ -8066,8 +8096,8 @@
 \sn 4
 \ge how; because
 \sn 5
-\ge in order that
-\dt 
+\ge so that, in order that
+\dt 20/Jan/2010
 
 \lx 00835
 \lk אשׁר
@@ -8244,29 +8274,25 @@
 
 \lx 00853
 \lk את
-\lf 
+\lf אֵת
 \ph ʾēt
 \frq WLC: 11048
 \cf Strong:H0226
-\sn 1
-\ge entity; self
-\sn 2
-\ge even; namely
-\dt 
+\ee direct object marker
+\dt 20/Jan/2010
 
 \lx 00854
 \lk את
-\lf 
+\lf אֵת
 \ph ʾēt
 \frq WLC: 811
-\cf Strong:H0579
 \sn 1
-\ge nearness; near
+\ge with, near, at, among
 \sn 2
-\ge with; by
+\ge through
 \sn 3
-\ge at; among
-\dt 
+\ge according to
+\dt 30/Jan/2010
 
 \lx 00855
 \lk את
@@ -8304,15 +8330,12 @@
 \dt 
 
 \lx 00859
-\lk אתּנּה    אתּנה    אתּן    אתּם    אתּי    את    אתּ    אתּהo
-\lf 
-\ph ʾattāh  ʾattā  ʾat  ʾattîy  ʾattem  ʾatten  ʾattēnāh  ʾattēnnāh
+\lk את
+\lf אַתְּ
+\ph ʾat
 \frq WLC: 1091
-\sn 1
-\ge thou; thee
-\sn 2
-\ge ye; you
-\dt 
+\ge you
+\dt 30/Jan/2010
 
 \lx 00860
 \lk אתון
@@ -8427,6 +8450,25 @@
 \sn 2
 \ge Atharim
 \dt 
+
+\lx 00871.1
+\lk ב
+\lf בְּ־
+\ph b-
+\frq WLC: ?
+\sn 1
+\ge in, into, on, among, at
+\sn 2
+\ge with, by means of
+\sn 3
+\ge because
+\sn 4
+\ge when, during
+\sn 5
+\ge concerning
+\sn 6
+\ge against
+\dt 20/Jan/2010
 
 \lx 00872
 \lk בּאה
@@ -9053,11 +9095,11 @@
 
 \lx 00935
 \lk בּוא
-\lf 
+\lf בּוֹא
 \ph bôʾ
 \frq WLC: 2571
-\ge go; come
-\dt 
+\ge go, come
+\dt 30/Jan/2010
 
 \lx 00936
 \lk בּוּז
@@ -9688,13 +9730,15 @@
 \dt 
 
 \lx 01004
-\lk בּית
-\lf 
+\lk בית
+\lf בַּ֫יִת
 \ph bayit
 \frq WLC: 2055
-\cf Strong:H1129
-\ge house; family
-\dt 
+\sn 1
+\ge house, room
+\sn 2
+\ge family, clan
+\dt 30/Jan/2010
 
 \lx 01005
 \lk בּית
@@ -10844,20 +10888,18 @@
 
 \lx 01121
 \lk בּן
-\lf 
+\lf בֵּן
 \ph bēn
 \frq WLC: 4931
-\cf Strong:H1129
 \sn 1
-\ge son; builder
+\ge son, child
 \sn 2
-\ge grandson; subject
+\ge descendant
 \sn 3
-\ge nation; quality
+\ge person
 \sn 4
-\ge condition
-\cf Strong:H0001
-\dt 
+\ge offspring
+\dt 20/Jan/2010
 
 \lx 01122
 \lk בּן
@@ -12828,13 +12870,15 @@
 \dt 
 
 \lx 01323
-\lk בּת
-\lf 
+\lk בת
+\lf בַּת
 \ph bat
 \frq WLC: 589
-\cf Strong:H1129
+\sn 1
 \ge daughter
-\dt 
+\sn 2
+\ge women
+\dt 01/Feb/2010
 
 \lx 01324
 \lk בּת
@@ -14255,18 +14299,15 @@
 \dt 
 
 \lx 01471
-\lk גּי    גּוי
-\lf 
-\ph gôy  gôy
+\lk גוי
+\lf גּוֹי
+\ph gôy
 \frq WLC: 561
-\cf Strong:H1465
 \sn 1
-\ge massing; nation
+\ge nation, people
 \sn 2
-\ge Gentile; troop
-\sn 3
-\ge flight
-\dt 
+\ge Gentiles
+\dt 06/Feb/2010
 
 \lx 01472
 \lk גּויּה
@@ -15244,19 +15285,19 @@
 \dt 
 
 \lx 01571
-\lk גּם
-\lf 
+\lk גם
+\lf גַּם
 \ph gam
 \frq WLC: 768
 \sn 1
-\ge gather; assemblage
+\ge also, even
 \sn 2
-\ge also; even
+\ge neither, nor
 \sn 3
-\ge yea; though
+\ge though
 \sn 4
-\ge both; and
-\dt 
+\ge both, and
+\dt 31/Jan/2010
 
 \lx 01572
 \lk גּמא
@@ -16430,29 +16471,26 @@
 \dt 
 
 \lx 01696
-\lk דּבר
-\lf 
-\ph dābar
+\lk דבר
+\lf דָּבַר
+\ph dābǎr
 \frq WLC: 1144
 \sn 1
-\ge arrange; speak
+\ge speak
 \sn 2
 \ge subdue
-\dt 
+\dt 30/Jan/2010
 
 \lx 01697
-\lk דּבר
-\lf 
+\lk דבר
+\lf דָּבָר
 \ph dābār
 \frq WLC: 1441
-\cf Strong:H1696
 \sn 1
-\ge word; matter
+\ge word, statement, account
 \sn 2
-\ge spoken; thing
-\sn 3
-\ge cause
-\dt 
+\ge happening, event
+\dt 30/Jan/2010
 
 \lx 01698
 \lk דּבר
@@ -16786,13 +16824,12 @@
 \dt 
 
 \lx 01732
-\lk דּויד    דּוד
-\lf 
-\ph dāwid  dāwîyd
+\lk דוד
+\lf דָּוִד
+\ph dāwid
 \frq WLC: 1075
-\cf Strong:H1730
-\ge loving; David
-\dt 
+\ge David
+\dt 30/Jan/2010
 
 \lx 01733
 \lk דּודה
@@ -18097,16 +18134,17 @@
 \dt 
 
 \lx 01870
-\lk דּרך
-\lf 
+\lk דרך
+\lf דֶּ֫רֶךְ
 \ph derek
 \frq WLC: 706
-\cf Strong:H1869
 \sn 1
-\ge road; trodden
+\ge way, road
 \sn 2
-\ge course; mode
-\dt 
+\ge journey
+\sn 3
+\ge conduct
+\dt 31/Jan/2010
 
 \lx 01871
 \lk דּרכּמון
@@ -18260,6 +18298,25 @@
 \frq WLC: 3
 \ge Dothan
 \dt 
+
+\lx 01886.1
+\lk ה־
+\lf הַ־
+\ph ha-
+\frq WLC: ?
+\sn 1
+\ge the
+\sn 2
+\ge who
+\dt 30/Jan/2010
+
+\lx 01886.2
+\lk ה־
+\lf הֲ־
+\ph hā-
+\frq WLC: ?
+\ee introduces a question, not translated
+\dt 30/Jan/2010
 
 \lx 01887
 \lk הא
@@ -18667,21 +18724,15 @@
 \dt 
 
 \lx 01931
-\lk היא    הוּא
-\lf 
-\ph hûʾ  hîyʾ
+\lk הוא
+\lf הוּא, הִוא
+\ph hûʾ, hîyʾ
 \frq WLC: 1877
 \sn 1
-\ge he; she
+\ge he, she
 \sn 2
-\ge it; self
-\sn 3
-\ge same; this
-\sn 4
-\ge that; as
-\sn 5
-\ge are
-\dt 
+\ge this
+\dt 30/Jan/2010
 
 \lx 01932
 \lk היא    הוּא
@@ -18956,15 +19007,14 @@
 
 \lx 01961
 \lk היה
-\lf 
+\lf הָיָה
 \ph hāyāh
 \frq WLC: 3561
-\cf Strong:H1933
 \sn 1
-\ge exist; be
+\ge exist, be
 \sn 2
-\ge become; come to pass
-\dt 
+\ge happen
+\dt 30/Jan/2010
 
 \lx 01962
 \lk היּה
@@ -19139,12 +19189,14 @@
 
 \lx 01980
 \lk הלך
-\lf 
+\lf הָלַךְ
 \ph hālak
 \frq WLC: 1549
-\cf Strong:H3212
-\ge walk
-\dt 
+\sn 1
+\ge walk, go
+\sn 2
+\ge behave, live
+\dt 30/Jan/2010
 
 \lx 01981
 \lk הלך
@@ -19262,13 +19314,12 @@
 \dt 
 
 \lx 01992
-\lk המּה    הם
-\lf 
-\ph hēm  hēmmāh
+\lk המה
+\lf הֵ֫מָּה
+\ph hēm
 \frq WLC: 822
-\cf Strong:H1931
-\ge they
-\dt 
+\ge they, them
+\dt 31/Jan/2010
 
 \lx 01993
 \lk המה
@@ -19439,13 +19490,12 @@
 \dt 
 
 \lx 02009
-\lk הנּה
-\lf 
+\lk הנה
+\lf הִנֵּה
 \ph hinnēh
 \frq WLC: 840
-\cf Strong:H2005
-\ge lo!
-\dt 
+\ge behold!, look!, here!, there!
+\dt 31/Jan/2010
 
 \lx 02010
 \lk הנחה
@@ -19822,6 +19872,23 @@
 \ge break; assail
 \dt 
 
+\lx 02050.1
+\lk ו־
+\lf וְ־
+\ph wĕ-
+\frq WLC: ?
+\sn 1
+\ge and
+\sn 2
+\ge but
+\sn 3
+\ge then
+\sn 4
+\ge so that
+\sn 5
+\ge when
+\dt 30/Jan/2010
+
 \lx 02051
 \lk ודן
 \lf 
@@ -19926,12 +19993,12 @@
 
 \lx 02063
 \lk זאת
-\lf 
+\lf זֹאת
 \ph zôʾt
 \frq WLC: 604
-\cf Strong:H2089
+\cf Strong:H2088
 \ge this
-\dt 
+\dt 01/Feb/2010
 
 \lx 02064
 \lk זבד
@@ -20153,12 +20220,11 @@
 
 \lx 02088
 \lk זה
-\lf 
+\lf זֶה
 \ph zeh
 \frq WLC: 1177
-\ge this; that
-\cf Strong:H2063
-\dt 
+\ge this, that
+\dt 30/Jan/2010
 
 \lx 02089
 \lk זה
@@ -28025,21 +28091,11 @@
 
 \lx 02896
 \lk טוב
-\lf 
+\lf טוֹב
 \ph ṭôb
 \frq WLC: 562
-\cf Strong:H2895
-\sn 1
-\ge good; good
-\sn 2
-\ge good; good
-\sn 3
-\ge good; good
-\sn 4
-\ge goods; good
-\sn 5
-\ge good; well
-\dt 
+\ge good, beautiful
+\dt 06/Feb/2010
 
 \lx 02897
 \lk טוב
@@ -29286,18 +29342,14 @@
 
 \lx 03027
 \lk יד
-\lf 
-\ph yād
+\lf יַד
+\ph yad
 \frq WLC: 1617
 \sn 1
-\ge hand; open
+\ge hand, arm
 \sn 2
-\ge power; means
-\sn 3
-\ge direction
-\cf Strong:H3709
-\ge closed
-\dt 
+\ge power, means
+\dt 30/Jan/2010
 
 \lx 03028
 \lk יד
@@ -29460,18 +29512,11 @@
 
 \lx 03045
 \lk ידע
-\lf 
+\lf יָדַע
 \ph yādaʿ
 \frq WLC: 942
-\sn 1
-\ge know; seeing
-\sn 2
-\ge observation; care
-\sn 3
-\ge recognition; instruction
-\sn 4
-\ge designation; punishment
-\dt 
+\ge know
+\dt 31/Jan/2010
 
 \lx 03046
 \lk ידע
@@ -29639,13 +29684,15 @@
 \dt 
 
 \lx 03063
-\lk יהוּדה
-\lf 
+\lk יהודה
+\lf יְהוּדָה
 \ph yehûdāh
 \frq WLC: 818
-\cf Strong:H3034
-\ge celebrated; Jehudah
-\dt 
+\sn 1
+\ge Judah
+\sn 2
+\ge Jews
+\dt 31/Jan/2010
 
 \lx 03064
 \lk יהוּדי
@@ -29685,13 +29732,13 @@
 
 \lx 03068
 \lk יהוה
-\lf 
-\ph yehôwāh
+\lf יהוה
+\ph yhwh
 \frq WLC: 6521
 \cf Strong:H1961
-\ge self Existent; Jehovah
+\ge Yahweh, the LORD
 \cf Strong:H3050
-\dt 
+\dt 20/Jan/2010
 
 \lx 03069
 \lk יהוה
@@ -30164,14 +30211,11 @@
 
 \lx 03117
 \lk יום
-\lf 
+\lf יוֹם
 \ph yôm
 \frq WLC: 2303
-\sn 1
-\ge be hot; day
-\sn 2
-\ge warm
-\dt 
+\ge day
+\dt 30/Jan/2010
 
 \lx 03118
 \lk יום
@@ -32111,14 +32155,11 @@
 
 \lx 03318
 \lk יצא
-\lf 
+\lf יָצָא
 \ph yāṣāʾ
 \frq WLC: 1069
-\sn 1
-\ge go; bring
-\sn 2
-\ge out
-\dt 
+\ge go out
+\dt 30/Jan/2010
 
 \lx 03319
 \lk יצא
@@ -32828,16 +32869,12 @@
 \dt 
 
 \lx 03389
-\lk ירוּשׁלים    ירוּשׁלם
-\lf 
-\ph yerûšālaim  yerûšālayim
+\lk ירושׁלם
+\lf יְרוּשָׁלַ֫םִ
+\ph yerûšālaim
 \frq WLC: 643
-\cf Strong:H3390
-\sn 1
-\ge founded peaceful; Jerushalaim
-\sn 2
-\ge Jerushalem
-\dt 
+\ge Jerusalem
+\dt 31/Jan/2010
 
 \lx 03390
 \lk ירוּשׁלם
@@ -33217,16 +33254,16 @@
 
 \lx 03427
 \lk ישׁב
-\lf 
+\lf יָשַׁב
 \ph yāšab
 \frq WLC: 1081
 \sn 1
-\ge sit; dwell
+\ge sit
 \sn 2
-\ge remain; settle
+\ge inhabit, dwell
 \sn 3
 \ge marry
-\dt 
+\dt 30/Jan/2010
 
 \lx 03428
 \lk ישׁבאב
@@ -33715,15 +33752,11 @@
 
 \lx 03478
 \lk ישׂראל
-\lf 
-\ph yiώrāʾēl
+\lf יִשְׂרָאֵל
+\ph yiśrāʾēl
 \frq WLC: 2506
-\cf Strong:H8280
-\sn 1
-\ge he will rule; God
-\sn 2
-\ge Jisrael
-\dt 
+\ge Israel
+\dt 30/Jan/2010
 
 \lx 03479
 \lk ישׂראל
@@ -34018,6 +34051,21 @@
 \frq WLC: 2
 \ge Jetheth
 \dt 
+
+\lx 03509.1
+\lk כ־
+\lf כְּ־
+\ph kĕ-
+\frq WLC: ?
+\sn 1
+\ge as, like
+\sn 2
+\ge when
+\sn 3
+\ge about
+\sn 4
+\ge according to
+\dt 30/Jan/2010
 
 \lx 03510
 \lk כּאב
@@ -34344,18 +34392,17 @@
 \dt 
 
 \lx 03541
-\lk כּה
-\lf 
+\lk כה
+\lf כֹּה
 \ph kôh
 \frq WLC: 576
-\cf Strong:H1931
 \sn 1
-\ge like this; thus
+\ge like this, thus
 \sn 2
-\ge so; here
+\ge so, here
 \sn 3
-\ge hither; now
-\dt 
+\ge now
+\dt 06/Feb/2010
 
 \lx 03542
 \lk כּה
@@ -34421,16 +34468,12 @@
 \dt 
 
 \lx 03548
-\lk כּהן
-\lf 
+\lk כהן
+\lf כֹּהֵן
 \ph kôhēn
 \frq WLC: 750
-\cf Strong:H3547
-\sn 1
-\ge officiating; priest
-\sn 2
-\ge acting priest
-\dt 
+\ge priest
+\dt 31/Jan/2010
 
 \lx 03549
 \lk כּהן
@@ -34824,12 +34867,21 @@
 \dt 
 
 \lx 03588
-\lk כּי
-\lf 
-\ph kîy
+\lk כי
+\lf כִּי
+\ph kî
 \frq WLC: 4481
-\ge causal
-\dt 
+\sn 1
+\ge for, because
+\sn 2
+\ge that
+\sn 3
+\ge indeed
+\sn 4
+\ge rather
+\sn 5
+\ge when
+\dt 20/Jan/2010
 
 \lx 03589
 \lk כּיד
@@ -34990,16 +35042,16 @@
 \dt 
 
 \lx 03605
-\lk כּול    כּלo
-\lf 
-\ph kôl  kôl
+\lk כּל
+\lf כֹּל
+\ph kōl
 \frq WLC: 5418
 \cf Strong:H3634
 \sn 1
 \ge whole; all
 \sn 2
 \ge any; every
-\dt 
+\dt 20/Jan/2010
 
 \lx 03606
 \lk כּל
@@ -35454,16 +35506,17 @@
 \dt 
 
 \lx 03651
-\lk כּן
-\lf 
+\lk כן
+\lf כֵּן
 \ph kēn
 \frq WLC: 767
-\cf Strong:H3559
 \sn 1
-\ge set; just
+\ge thus, so
 \sn 2
-\ge rightly; so
-\dt 
+\ge therefore, then
+\sn 3
+\ge right
+\dt 31/Jan/2010
 
 \lx 03652
 \lk כּן
@@ -36964,16 +37017,36 @@
 \ge bruise; strike
 \dt 
 
-\lx 03808
-\lk לה    לוא    לא
-\lf 
-\ph lôʾ  lôʾ  lôh
-\frq WLC: 5184
+\lx 03807.1
+\lk ל־
+\lf לְ־
+\ph lĕ-
+\frq WLC: ?
 \sn 1
-\ge lo; not
+\ge to, toward
 \sn 2
-\ge no
-\dt 
+\ge into
+\sn 3
+\ge among
+\sn 4
+\ge in order to, so that
+\sn 5
+\ge by
+\sn 6
+\ge concerning
+\sn 7
+\ge for, concerning
+\sn 8
+\ge until
+\dt 30/Jan/2010
+
+\lx 03808
+\lk לא
+\lf לֹא
+\ph lōʾ
+\frq WLC: 5184
+\ge no, not
+\dt 20/Jan/2010
 
 \lx 03809
 \lk לה    לא
@@ -37076,12 +37149,15 @@
 
 \lx 03820
 \lk לב
-\lf 
+\lf לֵב
 \ph lēb
 \frq WLC: 593
 \cf Strong:H3824
-\ge heart; centre
-\dt 
+\sn 1
+\ge heart
+\sn 2
+\ge mind, character
+\dt 01/Feb/2010
 
 \lx 03821
 \lk לב
@@ -37119,13 +37195,12 @@
 
 \lx 03824
 \lk לבב
-\lf 
+\lf לֵבָב
 \ph lēbāb
 \frq WLC: 252
-\cf Strong:H3823
-\ge heart
 \cf Strong:H3820
-\dt 
+\ge heart
+\dt 01/Feb/2010
 
 \lx 03825
 \lk לבב
@@ -38315,11 +38390,11 @@
 
 \lx 03947
 \lk לקח
-\lf 
+\lf לָקַח
 \ph lāqaḥ
 \frq WLC: 965
-\ge take
-\dt 
+\ge take, receive
+\dt 30/Jan/2010
 
 \lx 03948
 \lk לקח
@@ -38504,12 +38579,12 @@
 \dt 
 
 \lx 03967
-\lk מאיה    מאה
-\lf 
-\ph mēʾāh  mēʾyāh
+\lk מאה
+\lf מֵאָה
+\ph mēʾāh
 \frq WLC: 578
-\ge hundred
-\dt 
+\ge hundred; two hundred (dual)
+\dt 06/Feb/2010
 
 \lx 03968
 \lk מאה
@@ -39780,21 +39855,17 @@
 \dt 
 
 \lx 04100
-\lk מה    מ־    מ־    מה    מה
-\lf 
-\ph māh  mah  mā  ma  meh
+\lk מה
+\lf מָה, מַה, מֶה
+\ph māh, mah, meh
 \frq WLC: 744
 \sn 1
-\ge what; how
+\ge what
 \sn 2
-\ge why; when
+\ge why
 \sn 3
-\ge what; how
-\sn 4
-\ge what; whatever
-\sn 5
-\ge that which
-\dt 
+\ge how
+\dt 31/Jan/2010
 
 \lx 04101
 \lk מה
@@ -40722,12 +40793,12 @@
 \dt 
 
 \lx 04191
-\lk מוּת
-\lf 
+\lk מות
+\lf מוּת
 \ph mût
 \frq WLC: 839
-\ge die; kill
-\dt 
+\ge die
+\dt 31/Jan/2010
 
 \lx 04192
 \lk מוּת לבּן    מוּת
@@ -42040,14 +42111,11 @@
 
 \lx 04325
 \lk מים
-\lf 
+\lf מַ֫יִם
 \ph mayim
 \frq WLC: 580
-\sn 1
-\ge water; juice
-\sn 2
-\ge urine; semen
-\dt 
+\ge water
+\dt 06/Feb/2010
 
 \lx 04326
 \lk מיּמן
@@ -43084,12 +43152,11 @@
 
 \lx 04428
 \lk מלך
-\lf 
+\lf מֶ֫לֶךְ
 \ph melek
 \frq WLC: 2523
-\cf Strong:H4427
 \ge king
-\dt 
+\dt 30/Jan/2010
 
 \lx 04429
 \lk מלך
@@ -43572,16 +43639,19 @@
 \dt 
 
 \lx 04480
-\lk מנּי    מנּי    מן
-\lf 
-\ph min  minnîy  minnēy
+\lk מן
+\lf מִן
+\ph min
 \frq WLC: 1222
-\cf Strong:H4482
 \sn 1
-\ge part; from
+\ge out of, from
 \sn 2
-\ge out of
-\dt 
+\ge by means
+\sn 3
+\ge because
+\sn 4
+\ge more than
+\dt 30/Jan/2010
 
 \lx 04481
 \lk מן
@@ -45905,12 +45975,14 @@
 
 \lx 04714
 \lk מצרים
-\lf 
+\lf מִצְרַ֫יִם
 \ph miṣrayim
 \frq WLC: 615
-\cf Strong:H4693
-\ge Mitsrajim
-\dt 
+\sn 1
+\ge Egypt
+\sn 2
+\ge Mizraim
+\dt 01/Feb/2010
 
 \lx 04715
 \lk מצרף
@@ -47492,15 +47564,11 @@
 
 \lx 04872
 \lk משׁה
-\lf 
+\lf משֶׁה
 \ph môšeh
 \frq WLC: 766
-\cf Strong:H4871
-\sn 1
-\ge drawing; rescued
-\sn 2
-\ge Mosheh
-\dt 
+\ge Moses
+\dt 31/Jan/2010
 
 \lx 04873
 \lk משׁה
@@ -51895,15 +51963,18 @@
 
 \lx 05315
 \lk נפשׁ
-\lf 
+\lf נֶ֫פֶשׁ
 \ph nepheš
 \frq WLC: 754
-\cf Strong:H5314
 \sn 1
-\ge breathing; animal
+\ge creature, animal
 \sn 2
-\ge vitality
-\dt 
+\ge heart, soul
+\sn 3
+\ge life
+\sn 4
+\ge person
+\dt 31/Jan/2010
 
 \lx 05316
 \lk נפת
@@ -52484,12 +52555,17 @@
 \dt 
 
 \lx 05375
-\lk נסה    נשׂא
-\lf 
-\ph nāώāʾ  nāsāh
+\lk נשׂא
+\lf נָשָׂא
+\ph nāśāʾ
 \frq WLC: 653
-\ge lift
-\dt 
+\sn 1
+\ge lift up, bear, carry
+\sn 2
+\ge forgive
+\sn 3
+\ge respect, exalt
+\dt 31/Jan/2010
 
 \lx 05376
 \lk נשׂא
@@ -52856,14 +52932,16 @@
 
 \lx 05414
 \lk נתן
-\lf 
+\lf נָתַן
 \ph nātan
 \frq WLC: 2012
 \sn 1
-\ge give; put
-\sn 2
-\ge make
-\dt 
+\ge give
+2
+place, put
+\sn 3
+\ge cause, produce
+\dt 30/Jan/2010
 
 \lx 05415
 \lk נתן
@@ -55108,12 +55186,11 @@
 
 \lx 05650
 \lk עבד
-\lf 
+\lf עֶ֫בֶד
 \ph ʿebed
 \frq WLC: 800
-\cf Strong:H5647
-\ge servant
-\dt 
+\ge servant, slave
+\dt 31/Jan/2010
 
 \lx 05651
 \lk עבד
@@ -55342,14 +55419,11 @@
 
 \lx 05674
 \lk עבר
-\lf 
+\lf עָבַר
 \ph ʿābar
 \frq WLC: 556
-\sn 1
-\ge cross; transition
-\sn 2
-\ge cover
-\dt 
+\ge cross over, pass over
+\dt 06/Feb/2010
 
 \lx 05675
 \lk עבר
@@ -55620,21 +55694,15 @@
 
 \lx 05704
 \lk עד
-\lf 
+\lf עַד
 \ph ʿad
 \frq WLC: 1260
 \cf Strong:H5703
 \sn 1
-\ge as far; long
+\ge as far as, until
 \sn 2
-\ge much; as
-\sn 3
-\ge even unto; during
-\sn 4
-\ge while; until
-\sn 5
-\ge equally with
-\dt 
+\ge up to
+\dt 30/Jan/2010
 
 \lx 05705
 \lk עד
@@ -57226,14 +57294,11 @@
 
 \lx 05869
 \lk עין
-\lf 
+\lf עַ֫יִן
 \ph ʿayin
 \frq WLC: 886
-\sn 1
-\ge eye; fountain
-\sn 2
 \ge eye
-\dt 
+\dt 31/Jan/2010
 
 \lx 05870
 \lk עין
@@ -57445,16 +57510,12 @@
 \dt 
 
 \lx 05892
-\lk עיר    ער    עיר
-\lf 
-\ph ʿîyr  ʿār  ʿāyar
+\lk עיר
+\lf עִיר
+\ph ʿîyr
 \frq WLC: 1095
-\cf Strong:H5782
-\sn 1
-\ge city; waking
-\sn 2
-\ge encampment; post
-\dt 
+\ge city
+\dt 30/Jan/2010
 
 \lx 05893
 \lk עיר
@@ -57741,15 +57802,23 @@
 
 \lx 05921
 \lk על
-\lf 
-\ph ʿal
+\lf עַל
+\ph ʿǎl
 \frq WLC: 5778
 \cf Strong:H5920
 \sn 1
-\ge above; over
+\ge on, over
 \sn 2
-\ge upon; against
-\dt 
+\ge at, near, before
+\sn 3
+\ge against
+\sn 4
+\ge because
+\sn 5
+\ge concerning
+\sn 6
+\ge when, during
+\dt 20/Jan/2010
 
 \lx 05922
 \lk על
@@ -57798,14 +57867,14 @@
 
 \lx 05927
 \lk עלה
-\lf 
+\lf עָלָה
 \ph ʿālāh
 \frq WLC: 888
 \sn 1
-\ge ascend; be high
+\ge ascend, go up
 \sn 2
-\ge mount
-\dt 
+\ge sacrifice
+\dt 31/Jan/2010
 
 \lx 05928
 \lk עלה
@@ -58244,17 +58313,14 @@
 
 \lx 05971
 \lk עם
-\lf 
+\lf עַם
 \ph ʿam
 \frq WLC: 1868
-\cf Strong:H6004
 \sn 1
-\ge people; unit
+\ge people, nation
 \sn 2
-\ge tribe; troops
-\sn 3
-\ge attendants; flock
-\dt 
+\ge army
+\dt 30/Jan/2010
 
 \lx 05972
 \lk עם
@@ -58267,15 +58333,11 @@
 
 \lx 05973
 \lk עם
-\lf 
+\lf עִם
 \ph ʿim
 \frq WLC: 1043
-\cf Strong:H6004
-\sn 1
-\ge with; conjunction
-\sn 2
-\ge equally with
-\dt 
+\ge with
+\dt 30/Jan/2010
 
 \lx 05974
 \lk עם
@@ -60643,11 +60705,14 @@
 
 \lx 06213
 \lk עשׂה
-\lf 
-\ph ʿāώāh
+\lf עָשָׂה
+\ph ʿāśāh
 \frq WLC: 2628
-\ge do; make
-\dt 
+\sn 1
+\ge do
+\sn 2
+\ge make
+\dt 30/Jan/2010
 
 \lx 06214
 \lk עשׂהאל
@@ -60860,13 +60925,12 @@
 \dt 
 
 \lx 06235
-\lk עשׂרה    עשׂר
-\lf 
-\ph ʿeώer  ʿăώārāh
+\lk עשׂר
+\lf עָשָׂר
+\ph ʿāśār
 \frq WLC: 176
-\cf Strong:H6237
-\ge ten; accumulation
-\dt 
+\ge ten
+\dt 06/Feb/2010
 
 \lx 06236
 \lk עשׂרה    עשׂר
@@ -62851,15 +62915,22 @@
 \dt 
 
 \lx 06440
-\lk פּנים
-\lf 
-\ph pānîym
+\lk פנה
+\lf פָּנֶה
+\ph pāně
 \frq WLC: 2128
 \sn 1
-\ge paw-nehʾ; face
+\ge face
 \sn 2
-\ge turns; before
-\dt 
+\ge mouth
+\sn 3
+\ge appearance
+\sn 4
+\ge in front of
+\sn 5
+\lf לִפְנֵי
+\ge before
+\dt 31/Jan/2010
 
 \lx 06441
 \lk פּנימה
@@ -67981,12 +68052,21 @@
 \dt 
 
 \lx 06965
-\lk קוּם
-\lf 
+\lk קום
+\lf קוּם
 \ph qûm
 \frq WLC: 627
-\ge rise
-\dt 
+\sn 1
+\ge rise, stand
+\sn 2
+\ge establish
+\sn 3
+\ge be exalted
+\sn 4
+\ge fulfill
+\sn 5
+\ge restore
+\dt 01/Feb/2010
 
 \lx 06966
 \lk קוּם
@@ -69526,15 +69606,14 @@
 
 \lx 07121
 \lk קרא
-\lf 
+\lf קָרָא
 \ph qārāʾ
 \frq WLC: 734
-\cf Strong:H7122
 \sn 1
-\ge accosting; call
+\ge call
 \sn 2
-\ge address
-\dt 
+\ge read aloud
+\dt 31/Jan/2010
 
 \lx 07122
 \lk קרא
@@ -70296,11 +70375,11 @@
 
 \lx 07200
 \lk ראה
-\lf 
+\lf רָאָה
 \ph rāʾāh
 \frq WLC: 1306
 \ge see
-\dt 
+\dt 30/Jan/2010
 
 \lx 07201
 \lk ראה
@@ -70467,14 +70546,18 @@
 
 \lx 07218
 \lk ראשׁ
-\lf 
+\lf רֹאשׁ
 \ph rôʾš
 \frq WLC: 599
 \sn 1
-\ge shake; head
+\ge head
 \sn 2
-\ge shaken
-\dt 
+\ge chief
+\sn 3
+\ge top
+\sn 4
+\ge beginning
+\dt 01/Feb/2010
 
 \lx 07219
 \lk רושׁ    ראשׁ
@@ -72694,13 +72777,12 @@
 \dt 
 
 \lx 07451
-\lk רעה    רע
-\lf 
-\ph raʿ  rāʿāh
+\lk רע
+\lf רַע, רָעָה
+\ph raʿ, rāʿāh
 \frq WLC: 667
-\cf Strong:H7489
-\ge bad; evil
-\dt 
+\ge bad, evil
+\dt 31/Jan/2010
 
 \lx 07452
 \lk רע
@@ -75309,15 +75391,15 @@
 \dt 
 
 \lx 07725
-\lk שׁוּב
-\lf 
+\lk שׁוב
+\lf שׁוּב
 \ph šûb
 \frq WLC: 1056
 \sn 1
-\ge turn; return
+\ge turn, return
 \sn 2
-\ge retreat; again
-\dt 
+\ge restore
+\dt 30/Jan/2010
 
 \lx 07726
 \lk שׁובב
@@ -75630,12 +75712,19 @@
 \dt 
 
 \lx 07760
-\lk שׂים    שׂוּם
-\lf 
-\ph ώûm  ώîym
+\lk שׂים
+\lf שִׂים
+\ph śîm
 \frq WLC: 583
-\ge put
-\dt 
+\sn 1
+\ge put, place, set
+\sn 2
+\ge cause
+\sn 3
+\ge give
+\sn 4
+\ge put on
+\dt 06/Feb/2010
 
 \lx 07761
 \lk שׂוּם
@@ -77635,16 +77724,12 @@
 \dt 
 
 \lx 07969
-\lk שׁלשׁה    שׁלושׁה    שׁלשׁ    שׁלושׁ
-\lf 
-\ph šālôš  šālôš  šelôšāh  šelôšāh
+\lk שׁלשׁ
+\lf שָׁלֹשׁ
+\ph šālôš
 \frq WLC: 429
-\sn 1
 \ge three; third
-\sn 2
-\ge thrice
-\cf Strong:H7991
-\dt 
+\dt 06/Feb/2010
 
 \lx 07970
 \lk שׁלשׁים    שׁלושׁים
@@ -77658,11 +77743,18 @@
 
 \lx 07971
 \lk שׁלח
-\lf 
+\lf שָׁלַח
 \ph šālaḥ
 \frq WLC: 847
-\ge send
-\dt 
+\sn 1
+\ge send, send out
+\sn 2
+\ge extend
+\sn 3
+\ge let go
+\sn 4
+\ge shoot
+\dt 31/Jan/2010
 
 \lx 07972
 \lk שׁלח
@@ -77862,9 +77954,9 @@
 \dt 
 
 \lx 07991
-\lk שׁלשׁ    שׁלושׁ    שׁלישׁo
-\lf 
-\ph šālîyš  šālôš  šālôš
+\lk שׁלשׁ
+\lf
+\ph šālôš
 \frq WLC: 17
 \scr 1Chr.11.11
 \scr 1Chr.11.12
@@ -77877,7 +77969,7 @@
 \ge three; three
 \sn 3
 \ge treble; third
-\dt 
+\dt 06/Feb/2010
 
 \lx 07992
 \lk שׁלישׁי
@@ -78279,29 +78371,22 @@
 
 \lx 08033
 \lk שׁם
-\lf 
+\lf שָׁם
 \ph šām
 \frq WLC: 833
-\cf Strong:H0834
-\sn 1
-\ge there; then
-\sn 2
-\ge thither; thence
-\dt 
+\ge here, there
+\dt 31/Jan/2010
 
 \lx 08034
 \lk שׁם
-\lf 
+\lf שֵׁם
 \ph šēm
 \frq WLC: 864
-\cf Strong:H7760
-\ge position
-\cf Strong:H8064
 \sn 1
-\ge appellation; honor
+\ge name
 \sn 2
-\ge authority; character
-\dt 
+\ge reputation
+\dt 31/Jan/2010
 
 \lx 08035
 \lk שׁם
@@ -78796,11 +78881,14 @@
 
 \lx 08085
 \lk שׁמע
-\lf 
+\lf שָׁמַע
 \ph šāmaʿ
 \frq WLC: 1160
-\ge hear; tell
-\dt 
+\sn 1
+\ge hear
+\sn 2
+\ge obey
+\dt 30/Jan/2010
 
 \lx 08086
 \lk שׁמע
@@ -79318,13 +79406,12 @@
 \dt 
 
 \lx 08141
-\lk שׁנה    שׁנה
-\lf 
-\ph šāneh  šānāh
+\lk שׁנה
+\lf שָׁנָה
+\ph šānāh
 \frq WLC: 876
-\cf Strong:H8138
-\ge year; revolution
-\dt 
+\ge year
+\dt 31/Jan/2010
 
 \lx 08142
 \lk שׁנא    שׁנה
@@ -79378,13 +79465,17 @@
 \dt 
 
 \lx 08147
-\lk שׁתּים    שׁנים
-\lf 
-\ph šenayim  šettayim
+\lk שׁנים
+\lf שְׁנַ֫יִם, שְׁתַּ֫יִם
+\ph šĕnayim,  šĕttayim
 \frq WLC: 769
-\cf Strong:H8145
-\ge two; twofold
-\dt 
+\sn 1
+\ge two
+\sn 2
+\ge second
+\sn 3
+\ge pair, both
+\dt 31/Jan/2010
 
 \lx 08148
 \lk שׁנינה
