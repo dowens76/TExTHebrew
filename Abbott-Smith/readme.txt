@@ -25,44 +25,44 @@ To contribute you must be familiar with the basics of how XML works. For an intr
 This project follows several markup practices. Here are several of the most important ones:
 
 1. Structure of Lexicon Entries 
-	a. Every entry is nested in an <entry> element with an id (@n), which should be the Greek lemma. If there are multiple options at the head of the entry, choose the first.
-	b. Nested within <entry> are several elements: <form>, <gramGrp>, and <sense>. The first two only appear once. The last one may appear multiple times if there are multiple sense numbers. Note that all text in the entry must fall within one of these three elements, not directly under <entry>. 
+ a. Every entry is nested in an <entry> element with an id (@n), which should be the Greek lemma. If there are multiple options at the head of the entry, choose the first.
+ b. Nested within <entry> are several elements: <form>, <gramGrp>, and <sense>. The first two only appear once. The last one may appear multiple times if there are multiple sense numbers. Note that all text in the entry must fall within one of these three elements, not directly under <entry>. 
 3. Specific Elements of Each Entry
-	a. <form>
-		i. Typically this will include all information prior to the first definition. 
-		ii. The form of the word should be contained within <orth>. 
-		iii. Additional text may also appear outside <orth>.
-	b. <gramGrp>
-		i. This element is for gramatical information that does not involve the form of the word. 
-		ii. This normally will have nothing in it, in which case it can be dropped or included in this way: <gramGrp/>.
-		ii. If some grammatical information is given in the entry such as part of speech <pos> or some other subcategorization <subc>, it would be marked up in this way: <gramGrp><pos>verb</pos>, <subc>intransitive</subc></gramGrp>
-	c. <sense>
-		i. Anything related to the meaning of a word should occur in this element. 
-		ii. Definitions (usually anything in italics) should also be within <def>.
-		iii. If sense numbers are given, include @n in <sense> and the text of the sense number as it is written in the lexicon. 
-		iv. Multiple sense elements are allowed within the same entry.
+ a. <form>
+  i. Typically this will include all information prior to the first definition. 
+  ii. The form of the word should be contained within <orth>. 
+  iii. Additional text may also appear outside <orth>.
+ b. <gramGrp>
+  i. This element is for gramatical information that does not involve the form of the word. 
+  ii. This normally will have nothing in it, in which case it can be dropped or included in this way: <gramGrp/>.
+  iii. If some grammatical information is given in the entry such as part of speech <pos> or some other subcategorization <subc>, it would be marked up in this way: <gramGrp><pos>verb</pos>, <subc>intransitive</subc></gramGrp>
+ c. <sense>
+  i. Anything related to the meaning of a word should occur in this element. 
+  ii. Definitions (usually anything in italics) should also be within <def>.
+  iii. If sense numbers are given, include @n in <sense> and the text of the sense number as it is written in the lexicon. 
+  iv. Multiple sense elements are allowed within the same entry.
 4. Other Elements
-	a. <pb />
-		i. All page breaks are included in the file. 
-		ii. After cleaning up a page, add your initials to the commented @typed field after the <pb> element. After checking a page, do the same under @checked. This is not valid TEI, so the attributes are commented out outside the <pb> element.
-		iii. A completed page should look like this: <pb n="1" /> <!-- typed="ABC" checked="XYZ" -->
-	b. <foreign>
-		i. All text is assumed to be English (the analysis language) unless otherwise specified.
-		ii. The <foreign> element can be used for this purpose.
-		iii. Examples include: <foreign xml:lang="grc">Ἀαρών</foreign> and <foreign xml:lang="heb">אַהֲרוֹן</foreign>. Use "grc" for Greek and "heb" for Hebrew.
-	c. <ref>
-		i. Biblical references should be marked up using this element. 
-		ii. Although Abbott-Smith uses superscript numbers for verses, this project does not. Instead, we use a colon to separate chapter and verse. 
-		iii. For biblical book names in @osisRef, use SBL abbreviations. See http://www.textonline.org/textstyleguidelines.
-		iv. Examples include: <ref osisRef="Luke.1.5">Lk 1:5</ref> and <ref osisRef="Mark.1.14-Mark.1.15">Mk 1:14-15</ref>.
+ a. <pb />
+  i. All page breaks are included in the file. 
+  ii. After cleaning up a page, add your initials to the commented @typed field after the <pb> element. After checking a page, do the same under @checked. This is not valid TEI, so the attributes are commented out outside the <pb> element.
+  iii. A completed page should look like this: <pb n="1" /> <!-- typed="ABC" checked="XYZ" -->
+ b. <foreign>
+  i. All text is assumed to be English (the analysis language) unless otherwise specified.
+  ii. The <foreign> element can be used for this purpose.
+  iii. Examples include: <foreign xml:lang="grc">Ἀαρών</foreign> and <foreign xml:lang="heb">אַהֲרוֹן</foreign>. Use "grc" for Greek and "heb" for Hebrew.
+ c. <ref>
+  i. Biblical references should be marked up using this element. 
+  ii. Although Abbott-Smith uses superscript numbers for verses, this project does not. Instead, we use a colon to separate chapter and verse. 
+  iii. For biblical book names in @osisRef, use SBL abbreviations. See http://www.textonline.org/textstyleguidelines.
+  iv. Examples include: <ref osisRef="Luke.1.5">Lk 1:5</ref> and <ref osisRef="Mark.1.14-Mark.1.15">Mk 1:14-15</ref>.
 5. Recurring Text
-	a. For a dagger use † (see Preface of the lexicon for the meaning of this symbol)
-	b. For < use &lt;
-	c. For > use &rt;
-	d. For superscript, use: <hi rend="superscript">
-	e. For subscript, use: <hi rend="subscript">
-	f. For an ampersand use &amp;
-	g. For paragraphs use <p>
+ a. For a dagger use † (see Preface of the lexicon for the meaning of this symbol)
+ b. For < use &lt;
+ c. For > use &rt;
+ d. For superscript, use: <hi rend="superscript">
+ e. For subscript, use: <hi rend="subscript">
+ f. For an ampersand use &amp;
+ g. For paragraphs use <p>
 
 EXAMPLE ENTRIES
 
